@@ -1,0 +1,21 @@
+Change Log:
+
+Entity:
+Added width and height
+Added getters for width and height
+plagerized .. ahem .. utilized CRAZEERUSKEE's entity collision algorithm 
+
+Mob:
+Changed e.name to e.getName()
+changed 32 to width and height
+
+John:
+this.width = animSprite.SPRITE_WIDTH;
+this.height = animSprite.SPRITE_HEIGHT;
+
+House, Door:
+this.width = sprite.SPRITE_WIDTH;
+this.height = sprite.SPRITE_HEIGHT;
+
+////
+Entity restructuring
